@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-02T04:45:18.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="vwrY1111wqYlpyPlp95g" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-02T04:55:18.481Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="yxquMQCwTusS-pekehop" version="16.5.2" type="github">
   <diagram id="S5y2uVuskOZlBwGUc6Wx" name="Page-1">
     <mxGraphModel dx="782" dy="1527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="dJN6azi7i8f457nXPkYT-8" value="Chat Client" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="-30" width="230" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="dJN6azi7i8f457nXPkYT-7" value="Chat Server" style="html=1;" vertex="1" parent="1">
+        <mxCell id="dJN6azi7i8f457nXPkYT-7" value="Chat Server" style="html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=ltr;" vertex="1" parent="1">
           <mxGeometry x="400" y="-30" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dJN6azi7i8f457nXPkYT-2" value="Client" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="dJN6azi7i8f457nXPkYT-6" value="MongoDB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="40" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="dJN6azi7i8f457nXPkYT-9" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-20" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
